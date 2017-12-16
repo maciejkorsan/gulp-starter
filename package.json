@@ -1,0 +1,23 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "Bardzo prosty gulpfile :)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciejkorsan/gulp-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maciejkorsan/gulp-starter/issues"
+  },
+  "homepage": "https://github.com/maciejkorsan/gulp-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
