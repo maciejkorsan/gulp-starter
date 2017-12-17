@@ -1,5 +1,7 @@
 # gulp-starter
 
+Prezentacja: http://slides.com/maciejkorsan/podyplomowe-git-19?token=QsVbb2Ol#/49
+
 #### Na "czystym" systemie
 
 1. instalacja: https://nodejs.org/en/
